@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+       Em Sapzurro, você encontrará hotéis, cabanas, trilhas ecológicas e glamping a partir de COP $ 80.000
+        por noite, quartos confortáveis que permitirão desfrutar do descanso e relaxamento da cidade
+    </string>
+
+    <string name="descripcionrestaurantes">
+       Em Sapzurro, você encontrará hotéis, cabanas, trilhas ecológicas e glamping a partir de COP $ 80.000
+        por noite, quartos confortáveis que permitirão desfrutar do descanso e relaxamento da cidade
+    </string>
+
+    <string name="descripcionsitios">
+       Em Sapzurro, você encontrará hotéis, cabanas, trilhas ecológicas e glamping a partir de COP $ 80.000
+        por noite, quartos confortáveis que permitirão desfrutar do descanso e relaxamento da cidade
+    </string>
+
+    <string name="acercade">Sobre</string>
+    <string name="opcion1">Espanhol</string>
+    <string name="opcion2">Inglês</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Português</string>
+    <string name="botonhoteles">Hotéis</string>
+    <string name="botonrestaurantes">Restaurante</string>
+    <string name="botonturismo">Sítios turisticos</string>
+    <string name="nombreapp">Povoando 2</string>
+    <string name="descripcion">Sou Alexandra Martínez, sou formuladora de projetos, desenvolvedora de software e líder com abordagem social, cultural, ambiental e tecnológica, sou apaixonada por videogames, meu principal objetivo é criar uma nave e sair deste planeta Ha ha ha</string>
+
+
+</resources>

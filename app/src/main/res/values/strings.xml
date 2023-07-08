@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+        En Sapzurro, encontraras hoteles, cabañas, senderos ecologicos y glampings
+        desde los $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="descripcionrestaurantes">
+        En Sapzurro, encontraras hoteles, cabañas, senderos ecologicos y glampings
+        desde los $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="descripcionsitios">
+        En Sapzurro, encontraras hoteles, cabañas, senderos ecologicos y glampings
+        desde los $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="acercade">Acerca de</string>
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Portugues</string>
+    <string name="botonhoteles">Hoteles</string>
+    <string name="botonrestaurantes">Restaurantes</string>
+    <string name="botonturismo">Sitios Turisticos</string>
+    <string name="nombreapp">Puebliando 2</string>
+    <string name="descripcion">Soy Alexandra Martínez, soy formuladora de proyectos, desarrolladora de Software y líder con enfque social, cultural, ambiental y tecnologia, me apaciona los videojuegos, mi principal objetivo en crear una nave y salir de este planeta Ja ja ja</string>
+
+</resources>
