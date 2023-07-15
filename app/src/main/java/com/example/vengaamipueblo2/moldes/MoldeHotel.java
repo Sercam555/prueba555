@@ -9,17 +9,17 @@ public class MoldeHotel {
     public MoldeHotel() {
 
     }
-
+//estos son constructores
     public MoldeHotel(String nombre, String precio, int foto) {
         this.nombre = nombre;
         this.precio = precio;
         this.foto = foto;
     }
-
+//
     public String getNombre() {
         return nombre;
     }
-
+//traerlo
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }

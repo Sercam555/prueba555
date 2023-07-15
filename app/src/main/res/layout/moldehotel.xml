@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+
     <ImageView
         android:id="@+id/fotoitem"
         android:layout_width="match_parent"
@@ -13,7 +14,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:src="@drawable/hoteldos"
-        app:layout_constraintVertical_bias="0"
+        app:layout_constraintVertical_bias="0.1"
         />
         <TextView
             android:id="@+id/tituloitem"
@@ -24,7 +25,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintVertical_bias="0.05"
-            android:text="HOTEL DESCANSO DEL MOCHO"
+            android:text="@string/titulo1"
             android:textColor="@color/black"
             android:textSize="24dp"
             android:layout_marginHorizontal="15dp"
@@ -39,7 +40,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintVertical_bias="0.05"
-        android:text="50000"
+        android:text="@string/precio"
         android:textColor="@color/black"
         android:textSize="24dp"
         android:layout_marginHorizontal="15dp"
