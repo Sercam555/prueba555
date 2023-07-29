@@ -21,7 +21,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btover"
+        android:id="@+id/btnverrestaurantes"
         android:text="@string/botonVermas"
         android:textColor="@color/white"
         android:background="@drawable/botonredondo"

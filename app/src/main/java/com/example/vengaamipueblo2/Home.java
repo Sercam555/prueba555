@@ -1,6 +1,5 @@
 package com.example.vengaamipueblo2;
 
-import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.Resources;
@@ -10,7 +9,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 import java.util.Locale;
 
@@ -95,6 +93,9 @@ public class Home extends AppCompatActivity {
                 Intent intentPortugues= new Intent(Home.this,Home.class);
                 startActivity(intentPortugues);
                 break;
+            case(R.id.acercade):
+                Intent inetnet= new Intent(Home.this,Acercade.class);
+                startActivity(inetnet);
         }
         return super.onOptionsItemSelected(item);
     }

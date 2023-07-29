@@ -1,10 +1,10 @@
 package com.example.vengaamipueblo2.moldes;
 
 public class MoldeRestaurante {
-    String nombre;
-    String descripcion;
-    String rangoPrecio;
-    private int foto;
+    static String nombre;
+    static String descripcion;
+    static String rangoPrecio;
+    private static int foto;
     //clik derecho,dar Generate, y luego selecciono select None
     public MoldeRestaurante() {
 
@@ -18,7 +18,7 @@ public class MoldeRestaurante {
         this.foto = foto;
     }
 //Getter and getter
-    public String getNombre() {
+    public  String getNombre() {
         return nombre;
     }
 
@@ -26,7 +26,7 @@ public class MoldeRestaurante {
         this.nombre = nombre;
     }
 
-    public String getDescripcion() {
+    public  String getDescripcion() {
         return descripcion;
     }
 
@@ -34,7 +34,7 @@ public class MoldeRestaurante {
         this.descripcion = descripcion;
     }
 
-    public String getRangoPrecio() {
+    public  String getRangoPrecio() {
         return rangoPrecio;
     }
 
@@ -42,7 +42,7 @@ public class MoldeRestaurante {
         this.rangoPrecio = rangoPrecio;
     }
 
-    public int getFoto() {
+    public  int getFoto() {
         return foto;
     }
 

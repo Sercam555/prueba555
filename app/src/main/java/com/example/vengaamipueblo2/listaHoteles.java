@@ -27,11 +27,11 @@ public class listaHoteles extends AppCompatActivity {
     }
 
     public void crearLista(){
-        listaHoteles.add(new MoldeHotel("Hotel1","2500000",R.drawable.hoteldos));
-        listaHoteles.add(new MoldeHotel("Hotel2","2500000",R.drawable.hoteel));
-        listaHoteles.add(new MoldeHotel("Hotel3","2500000",R.drawable.hotel));
-        listaHoteles.add(new MoldeHotel("Hotel4","2500000",R.drawable.hoteltres));
-        listaHoteles.add(new MoldeHotel("Hotel5","2500000",R.drawable.hottel));
-        listaHoteles.add(new MoldeHotel("Hotel6","2500000",R.drawable.hhotel));
+        listaHoteles.add(new MoldeHotel("Hotel1","2500000",R.drawable.hoteluno));
+        listaHoteles.add(new MoldeHotel("Hotel2","2500000",R.drawable.hotelc));
+        listaHoteles.add(new MoldeHotel("Hotel3","2500000",R.drawable.hotelcu));
+        listaHoteles.add(new MoldeHotel("Hotel4","2500000",R.drawable.hoteldo));
+        listaHoteles.add(new MoldeHotel("Hotel5","2500000",R.drawable.hotelse));
+        listaHoteles.add(new MoldeHotel("Hotel6","2500000",R.drawable.doshotel));
     }
 }

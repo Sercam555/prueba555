@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"/>
 
     <Button
-        android:id="@+id/btnverm"
+        android:id="@+id/btonverSitio"
         android:text="@string/botonVermas"
         android:textColor="@color/white"
         android:background="@drawable/botonredondo"
